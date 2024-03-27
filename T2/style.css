@@ -1,0 +1,23 @@
+/* kode CSS external, menggunakan file terpisah */
+body {
+  background-color: yellow;
+  text-align: center;
+}
+
+.gambar-saya {
+  width: 200px;
+  height: 175px;
+  border-radius: 20px;
+
+  display: block;
+  margin: auto;
+  padding: auto;
+}
+
+ul{
+  list-style: none;
+  text-align: center;
+  display: inline-block;
+  padding: 0;
+  margin: auto;
+}
